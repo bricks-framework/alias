@@ -1,6 +1,8 @@
 <?php
 
-/** @copyright Sven Ullmann <kontakt@sumedia-webdesign.de> **/namespace BricksFramework\Alias;
+/** @copyright Sven Ullmann <kontakt@sumedia-webdesign.de> **/
+
+namespace BricksFramework\Alias;
 
 interface AliasInterface
 {
